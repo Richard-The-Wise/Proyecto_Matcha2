@@ -1,0 +1,22 @@
+{
+  "name": "matcha",
+  "version": "1.0.0",
+  "description": "https://warm-tanuki-1c9fde.netlify.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richard-The-Wise/Proyecto_Matcha2.git"
+  },
+  "author": "Ricardo Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richard-The-Wise/Proyecto_Matcha2/issues"
+  },
+  "homepage": "https://github.com/Richard-The-Wise/Proyecto_Matcha2#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
